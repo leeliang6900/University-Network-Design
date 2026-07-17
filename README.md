@@ -85,8 +85,8 @@ The project focuses on network architecture design, security implementation, and
 | File | Description |
 |------|-------------|
 | `Final Year Project.pkt` | Cisco Packet Tracer simulation file |
-| `Final Year Project Report.pdf` | Complete project documentation |
-| `Final Year Project Presentation.pdf` | Project presentation slides |
+| `Final Year Project Report(Word).pdf` | Complete project documentation |
+| `Final Year Project Report(PPT).pdf` | Project presentation slides |
 
 ---
 
