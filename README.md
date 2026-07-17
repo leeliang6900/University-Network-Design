@@ -33,7 +33,7 @@ The objective of this project is to design and simulate a secure and scalable un
 
 ## Network Topology
 
-![Network Topology](network-topology.png)
+![Network Topology](NetWork Topology.png)
 
 ---
 
