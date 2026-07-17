@@ -33,19 +33,19 @@ The objective of this project is to design and simulate a secure and scalable un
 
 ## Network Topology
 
-![Network Topology](NetWork Topology.png)
+![Network Topology](network-topology.png)
 
 ---
 
 ## Main Campus
 
-![Main Campus](Main Campus.png)
+![Main Campus](main-campus.png)
 
 ---
 
 ## Branch Campus
 
-![Branch Campus](Branch Campus.png)
+![Branch Campus](branch-campus.png)
 
 ---
 
