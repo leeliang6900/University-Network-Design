@@ -64,34 +64,19 @@ The project focuses on network architecture design, security implementation, and
 
 # Network Topology
 
-![Network Topology](images/network-topology.png)
+![Network Topology](network-topology.png)
 
 ---
 
 # Main Campus
 
-![Main Campus](images/main-campus.png)
+![Main Campus](main-campus.png)
 
 ---
 
 # Branch Campus
 
-![Branch Campus](images/branch-campus.png)
-
----
-
-# Testing
-
-The following functions were tested:
-
-- VLAN communication
-- Inter-VLAN routing
-- DHCP IP assignment
-- ACL access control
-- VPN connectivity between campuses
-- Firewall security policies
-- NAT functionality
-- Network services availability
+![Branch Campus](branch-campus.png)
 
 ---
 
